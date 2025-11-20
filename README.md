@@ -1,14 +1,21 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<h2>Hello 🌎, I'm Cristian</h2>
-With 1 year of experience as a junior web developer, I have primarily worked with the MERN stack (MongoDB, Express, React, Node.js) using JavaScript, and I have primarily used TypeScript for React. I apply Clean Architecture principles like Screaming Architecture and Vertical Slicing in my projects. My focus is on developing scalable and maintainable web applications, with a special interest in clean and organized software architecture. My experience spans both frontend and backend, allowing me to create comprehensive and efficient solutions.
+<h2>Hello 🌎, I'm Sergio.</h2>
+<hr>
+I'm an aspiring web developer, primarily working with Python.
 
-I'm excited to work on innovative projects and continuously grow as a developer, learning new technologies and improving my technical skills.
+I apply clean architecture principles in my projects.
 
-🔭 Currently, I’m working as a Frontend Developer with React and TypeScript, using libraries such as NextUI, MUI and React Bootstrap.
-<br>
-🌱 I’m learning new tools and frameworks such as Python and Blueprints, while deepening my knowledge of Clean Architecture.
-<br>
-💬 Ask me about React, JavaScript, TypeScript, Node.js, MySQL, SQL Server, MongoDB.
+I focus on developing maintainable web applications.
+
+My experience covers both frontend and backend. I have a very simple grasp of frontend and am quickly mastering backend, allowing me to create efficient solutions.
+
+I'm excited to work on projects and grow as a developer, learning new technologies and improving my skills.
+
+🔭 I'm currently studying Software Programming at SENA.
+
+🌱 I'm learning new tools and frameworks like Python and Flask, while also delving deeper into frontend development with Bootstrap and other tools.
+
+If you'd like to get in touch, you can find my social media links below...
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
