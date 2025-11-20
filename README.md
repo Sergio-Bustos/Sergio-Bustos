@@ -3,7 +3,6 @@
 <hr>
 I'm an aspiring web developer, primarily working with Python.
 
-I apply clean architecture principles in my projects.
 
 I focus on developing maintainable web applications.
 
