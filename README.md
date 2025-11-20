@@ -3,7 +3,7 @@
 <hr>
 I'm an aspiring web developer, primarily working with Python.
 <br>
-
+<br>
 I focus on developing maintainable web applications.
 
 My experience covers both frontend and backend. I have a very simple grasp of frontend and am quickly mastering backend, allowing me to create efficient solutions.
