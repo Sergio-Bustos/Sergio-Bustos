@@ -12,10 +12,10 @@ I'm excited to work on innovative projects and continuously grow as a developer,
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://https://www.linkedin.com/in/sergioabustosm//" target="_blank">
+  <a href="https://https://www.linkedin.com/in/sergioabustosm/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
   </a>
-  <a href="https://https://www.instagram.com/04_____sbm//" target="_blank">
+  <a href="https://https://www.instagram.com/04_____sbm/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40"/>
   </a>
 </p>
