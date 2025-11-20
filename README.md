@@ -22,7 +22,7 @@ I'm excited to work on innovative projects and continuously grow as a developer,
 
 <h3 align="left">Activity:</h3>
 
-<div align="center"> <a href="https://github.com/[tu_usuario]"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> </a> </div> <p align="center"> <a href="https://github.com/Sergio-Bustos"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sergio-BustosY&&theme=tokyonight" alt="Sergio-Bustos" /> </a> </p>
+<div align="center"> <a href="https://github.com/[tu_usuario]"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> </a> </div> <p align="center"> <a href="https://github.com/Sergio-Bustos"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sergio-Bustos&&theme=tokyonight" alt="Sergio-Bustos" /> </a> </p>
 
 <h3 align="left">Languages and Tools:</h3> 
 <table> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td> <td><img height="40" src="https://skillicons.dev/icons?i=python"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">
@@ -34,5 +34,5 @@ IDEs:</td> <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></t
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=NarvaezSKY&label=Profile%20views&color=0e75b6&style=flat" alt="NarvaezSKY" />
+  <img src="https://komarev.com/ghpvc/?username=Sergio-Bustos&label=Profile%20views&color=0e75b6&style=flat" alt="Sergio-Bustos" />
 </p>
