@@ -31,7 +31,7 @@ Frontend:</td> <td><img height="40" src="https://skillicons.dev/icons?i=html,css
 Database:</td> <td><img height="40" src="https://skillicons.dev/icons?i=postgresql"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
 Version Control:</td> <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
 IDEs:</td> <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-Other Tools:</td> <td><img height="40" src="https://skillicons.dev/icons?i=jira,trello"/></td> </tr> </table>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=NarvaezSKY&label=Profile%20views&color=0e75b6&style=flat" alt="NarvaezSKY" />
