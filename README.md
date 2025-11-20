@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <h2>Hello 🌎, I'm Sergio.</h2>
-<hr>
+
 I'm an aspiring web developer, primarily working with Python.
 <br>
 <br>
