@@ -2,7 +2,7 @@
 <h2>Hello 🌎, I'm Sergio.</h2>
 <hr>
 I'm an aspiring web developer, primarily working with Python.
-
+<br>
 
 I focus on developing maintainable web applications.
 
