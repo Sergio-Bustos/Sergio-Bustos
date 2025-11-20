@@ -5,15 +5,20 @@ I'm an aspiring web developer, primarily working with Python.
 <br>
 <br>
 I focus on developing maintainable web applications.
-
+<br>
+<br>
 My experience covers both frontend and backend. I have a very simple grasp of frontend and am quickly mastering backend, allowing me to create efficient solutions.
-
+<br>
+<br>
 I'm excited to work on projects and grow as a developer, learning new technologies and improving my skills.
-
+<br>
+<br>
 🔭 I'm currently studying Software Programming at SENA.
-
+<br>
+<br>
 🌱 I'm learning new tools and frameworks like Python and Flask, while also delving deeper into frontend development with Bootstrap and other tools.
-
+<br>
+<br>
 If you'd like to get in touch, you can find my social media links below...
 <br>
 <h3 align="left">Connect with me:</h3>
