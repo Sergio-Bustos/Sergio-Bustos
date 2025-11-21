@@ -33,7 +33,7 @@ If you'd like to get in touch, you can find my social media links below...
 
 <h3 align="left">Activity:</h3>
 
-<div align="center"> <a href="https://github.com/[tu_usuario]"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> </a> </div> <p align="center"> <a href="https://github.com/Sergio-Bustos"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sergio-Bustos&&theme=tokyonight" alt="Sergio-Bustos" /> </a> </p>
+<div align="center"> <a href="https://github.com/Sergio-Bustos"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> </a> </div> <p align="center"> <a href="https://github.com/Sergio-Bustos"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sergio-Bustos&&theme=tokyonight" alt="Sergio-Bustos" /> </a> </p>
 
 <h3 align="left">Languages and Tools:</h3> 
 <table> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
