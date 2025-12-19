@@ -6,13 +6,13 @@
 </h3>
 </div>
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-🔭 Actualmente estudio **Programación de Software** en el SENA  
-🌱 Aprendiendo nuevas herramientas y frameworks como **Python y Flask**, profundizando en desarrollo frontend con **Bootstrap**  
-📍 **Ubicación:** Palmira, Valle del Cauca, Colombia  
-🎯 **Objetivo:** Conseguir mi primer trabajo como Desarrollador de Software  
-🎨 **Intereses:** Backend, Frontend, Bases de Datos, Scrum  
+🔭 I am currently studying **Software Programming** at SENA.
+🌱 Learning new tools and frameworks like **Python and Flask**, and deepening my knowledge of frontend development with **Bootstrap**.
+📍 **Location:** Palmira, Valle del Cauca, Colombia
+🎯 **Goal:** To get my first job as a Software Developer.
+🎨 **Interests:** Backend, Frontend, Databases, Scrum
 
 ---
 
