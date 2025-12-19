@@ -27,8 +27,12 @@ IDEs:</td> <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></t
 
 <br>
 
-## GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+## GitHub Stats 
 
-<h3 align="left">Activity:</h3>
 
-<div align="center"> <a href="https://github.com/Sergio-Bustos"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> </a> </div> <p align="center"> <a href="https://github.com/Sergio-Bustos">
+<div align="center"> 
+  <a href="https://github.com/Sergio-Bustos"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> 
+  </a> 
+</div> 
+<p align="center"> <a href="https://github.com/Sergio-Bustos">
