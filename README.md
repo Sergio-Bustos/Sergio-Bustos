@@ -1,39 +1,19 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<h2>Hello 🌎, I'm Sergio.</h2>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:063F53,20:095E7C,40:0C7CA5,60:0F9BCE,80:1BB6EE,100:44C3F1&height=180&section=header&text=Daniel%20Lubo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1BB6EE&center=true&vCenter=true&random=false&width=600&lines=Developer+Software+Developer;FLask+Enthusiast" alt="Typing SVG" />
+</h3>
+</div>
 
-I'm an aspiring web developer, primarily working with Python.
-<br>
-<br>
-I focus on developing maintainable web applications.
-<br>
-<br>
-My experience covers both frontend and backend. I have a very simple grasp of frontend and am quickly mastering backend, allowing me to create efficient solutions.
-<br>
-<br>
-I'm excited to work on projects and grow as a developer, learning new technologies and improving my skills.
-<br>
-<br>
+## Sobre mí <img alt="Coding" height="70px" width="70px" align="right" src="https://github.com/user-attachments/assets/9cb4f231-5df7-4822-8e77-ddb63010a801">
+
+
 🔭 I'm currently studying Software Programming at SENA.
-<br>
-<br>
-🌱 I'm learning new tools and frameworks like Python and Flask, while also delving deeper into frontend development with Bootstrap and other tools.
-<br>
-<br>
-If you'd like to get in touch, you can find my social media links below...
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sergioabustosm/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/04_____sbm/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="40" width="40"/>
-  </a>
-</p>
+I'm learning new tools and frameworks like Python and Flask, while also delving deeper into frontend development with Bootstrap and other tools.
 
-<h3 align="left">Activity:</h3>
-
-<div align="center"> <a href="https://github.com/Sergio-Bustos"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> </a> </div> <p align="center"> <a href="https://github.com/Sergio-Bustos">
+📍 **Ubicación:** Palmira,Valle del Cauca, Colombia  
+🌱 **Objetivo:** Conseguir mi primer trabajo como Desarollador de Software
+🎨 **Intereses:** Back end,front end,bases de datos,scrum
 
 <h3 align="left">Languages and Tools:</h3> 
 <table> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
@@ -45,6 +25,10 @@ Version Control:</td> <td><img height="40" src="https://skillicons.dev/icons?i=g
 IDEs:</td> <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sergio-Bustos&label=Profile%20views&color=0e75b6&style=flat" alt="Sergio-Bustos" />
-</p>
+<br>
+
+## GitHub Stats <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+<h3 align="left">Activity:</h3>
+
+<div align="center"> <a href="https://github.com/Sergio-Bustos"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> </a> </div> <p align="center"> <a href="https://github.com/Sergio-Bustos">
