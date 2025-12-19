@@ -1,38 +1,67 @@
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:063F53,20:095E7C,40:0C7CA5,60:0F9BCE,80:1BB6EE,100:44C3F1&height=180&section=header&text=Sergio%20Bustos&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1BB6EE&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;FLask+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1BB6EE&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Flask+Enthusiast" alt="Typing SVG" />
 </h3>
 </div>
 
-## Sobre mí
+## 👨‍💻 Sobre mí
 
+🔭 Actualmente estudio **Programación de Software** en el SENA  
+🌱 Aprendiendo nuevas herramientas y frameworks como **Python y Flask**, profundizando en desarrollo frontend con **Bootstrap**  
+📍 **Ubicación:** Palmira, Valle del Cauca, Colombia  
+🎯 **Objetivo:** Conseguir mi primer trabajo como Desarrollador de Software  
+🎨 **Intereses:** Backend, Frontend, Bases de Datos, Scrum  
 
-🔭 I'm currently studying Software Programming at SENA.
-I'm learning new tools and frameworks like Python and Flask, while also delving deeper into frontend development with Bootstrap and other tools.
+---
 
-📍 **Ubicación:** Palmira,Valle del Cauca, Colombia  
-🌱 **Objetivo:** Conseguir mi primer trabajo como Desarollador de Software
-🎨 **Intereses:** Back end,front end,bases de datos,scrum
+## 🛠️ Languages and Tools
 
-<h3 align="left">Languages and Tools:</h3> 
-<table> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-  Backend:</td> <td><img height="40" src="https://skillicons.dev/icons?i=python,flask"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">
+<table>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=python,flask"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgresql"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Sergio-Bustos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/>
+  </a>
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
   
-Frontend:</td> <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-Database:</td> <td><img height="40" src="https://skillicons.dev/icons?i=postgresql"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-Version Control:</td> <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
-IDEs:</td> <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td> </tr> <tr> <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioabustosm)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sergio-Bustos)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiobustosmondragon@gmail.com)
 
+</div>
 
-<br>
-
-## GitHub Stats 
-
-
-<div align="center"> 
-  <a href="https://github.com/Sergio-Bustos"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/> 
-  </a> 
-</div> 
-<p align="center"> <a href="https://github.com/Sergio-Bustos">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:063F53,20:095E7C,40:0C7CA5,60:0F9BCE,80:1BB6EE,100:44C3F1&height=120&section=footer"/>
