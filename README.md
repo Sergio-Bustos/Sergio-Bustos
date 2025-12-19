@@ -54,7 +54,7 @@
 
 ---
 
-## 📫 Contacto
+## 📫 Contact me
 
 <div align="center">
   
