@@ -55,8 +55,8 @@
 
 <div align="center">
   <a href="https://github.com/Sergio-Bustos">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/>
+    <img height="180em" src="https://github-readme-stats-sable-eight-57.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/>
+    <img height="180em" src="https://github-readme-stats-sable-eight-57.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/>
   </a>
 </div>
 
