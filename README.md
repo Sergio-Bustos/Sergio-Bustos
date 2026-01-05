@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,figma"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,figma"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
