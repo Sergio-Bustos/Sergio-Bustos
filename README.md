@@ -43,6 +43,10 @@
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
     <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
   </tr>
+    <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vercel"/></td>
+  </tr>
 </table>
 
 ---
