@@ -9,13 +9,13 @@
 ## 👨‍💻 About Me
 
 🔭 I am currently studying **Software Programming** at SENA.
-<br>
+<br><br>
 🌱 Learning new tools and frameworks like **Python and Flask**, and deepening my knowledge of frontend development with **Bootstrap** and **JavaScript**.
-<br>
+<br><br>
 📍 **Location:** Palmira, Valle del Cauca, Colombia
-<br>
+<br><br>
 🎯 **Goal:** To get my first job as a Software Developer.
-<br>
+<br><br>
 🎨 **Interests:** Backend, Frontend, Databases, Scrum
 
 ---
