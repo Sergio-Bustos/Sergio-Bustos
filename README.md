@@ -45,7 +45,7 @@
   </tr>
     <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=vercel"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=vercel,docker"/></td>
   </tr>
 </table>
 
