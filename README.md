@@ -45,7 +45,7 @@
   </tr>
     <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=render,vercel"/></td>
+    <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=render,vercel"/></td>
   </tr>
 </table>
 
