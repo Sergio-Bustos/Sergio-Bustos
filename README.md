@@ -29,11 +29,11 @@
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,figma"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,figma"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=postgresql"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
@@ -45,7 +45,7 @@
   </tr>
     <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=vercel"/></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=render,vercel"/></td>
   </tr>
 </table>
 
