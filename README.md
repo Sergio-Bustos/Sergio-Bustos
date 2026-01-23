@@ -51,7 +51,7 @@
 
 ---
 ## 👩🏻‍💻I am currently reinforcing my knowledge or learning in:
-<img height="40" src="https://skillicons.dev/icons?i=html,css,javascript,react,docker,render"/>
+<img height="40" src="https://skillicons.dev/icons?i=html,css,javascript,react,docker,flask,render"/>
 
 ## 📊 GitHub Stats
 
