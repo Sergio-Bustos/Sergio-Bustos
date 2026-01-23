@@ -10,7 +10,7 @@
 
 🔭 I am currently studying **Software Programming** at SENA.
 <br><br>
-🌱 Learning new tools and frameworks like **Python and Flask**, and deepening my knowledge of frontend development with **Bootstrap** and **JavaScript**.
+🌱 Learning new tools and frameworks like **Python and Flask**, and deepening my knowledge of frontend development with **Bootstrap**,**JavaScript**,**FetchAPI**,**React**,and backend with **Docker**,etc...
 <br><br>
 📍 **Location:** Palmira, Valle del Cauca, Colombia
 <br><br>
