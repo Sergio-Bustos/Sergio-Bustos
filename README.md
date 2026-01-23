@@ -52,7 +52,9 @@
 ---
 ## 👩🏻‍💻I am currently reinforcing my knowledge or learning in:
 <div align="center">
-  <img height="40" src="https://skillicons.dev/icons?i=html,css,javascript,react,docker,flask,render"/>
+  <img height="40" src="https://skillicons.dev/icons?i=html,css,javascript,react,docker,flask,"/><img
+      src="https://go-skill-icons.vercel.app/api/icons?i=render"
+    />
 </div>
 
 
