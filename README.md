@@ -25,23 +25,26 @@
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=python,flask"/></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=html,css,bootstrap,figma"/></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma"/></td>
+    
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=postgresql"/></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql"/></td>
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github"/></td>
+    
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/></td>
+    
   </tr>
     <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
