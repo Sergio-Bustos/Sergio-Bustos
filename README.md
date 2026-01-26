@@ -53,6 +53,15 @@
 </table>
 
 ---
+
+## 👩🏻‍💻 I am currently reinforcing my knowledge or learning in:
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,html,css,bootstrap,figma,postgresql,git,github"/>
+  </a>
+</p>
+---
 ## 👩🏻‍💻 And then I will learn:
 
 <p align="center">
@@ -61,7 +70,7 @@
   </a>
 </p>
 
-## 
+---
 
 ## 📊 GitHub Stats
 
