@@ -53,13 +53,15 @@
 </table>
 
 ---
-## 👩🏻‍💻I am currently reinforcing my knowledge or learning in:
+## 👩🏻‍💻 And then I will learn:
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react,docker,flask,render"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,react,typescript"/>
   </a>
 </p>
+
+## 
 
 ## 📊 GitHub Stats
 
