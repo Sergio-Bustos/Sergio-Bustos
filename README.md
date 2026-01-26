@@ -61,7 +61,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,html,css,bootstrap,figma,postgresql,git,github"/>
   </a>
 </p>
----
+
 
 ## 👩🏻‍💻 And then I will learn:
 
