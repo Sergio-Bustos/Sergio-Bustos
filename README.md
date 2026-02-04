@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,react,tailwindcss,postman,vite"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,tailwindcss,postman,"/>
   </a>
 </p>
 
