@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma"/></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma,javascript"/></td>
     
   </tr>
   <tr>
