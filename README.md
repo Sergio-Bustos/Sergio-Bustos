@@ -43,12 +43,12 @@
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode"/></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,jupyternotebook"/></td>
     
   </tr>
     <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,docker,cursor"/></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,docker"/></td>
   </tr>
 </table>
 
