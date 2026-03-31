@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,jupyternotebook"/></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,jupyter"/></td>
     
   </tr>
     <tr>
