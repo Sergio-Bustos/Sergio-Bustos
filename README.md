@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma,javascript"/></td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma,javascript,react"/></td>
     
   </tr>
   <tr>
@@ -47,8 +47,8 @@
     
   </tr>
     <tr>
-    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,docker"/></td>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools or Languages:</td>
+    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,docker,php"/></td>
   </tr>
 </table>
 
@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,html,css,bootstrap,figma,postgresql,git,github,javascript"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,html,css,bootstrap,figma,postgresql,git,github,javascript,react,php"/>
   </a>
 </p>
 
