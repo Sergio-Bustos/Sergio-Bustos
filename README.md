@@ -19,7 +19,6 @@
 🎨 **Interests:** Backend, Frontend, Databases, Scrum
 
 ---
-
 ## 🛠️ Languages and Tools
 
 <table>
@@ -83,14 +82,15 @@
       Deployment:
     </td>
     <td>
+
       <a href="https://vercel.com">
-        <img src="https://skillicons.dev/icons?i=vercel" />
+        <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
       </a>
 
-      <img src="https://cdn.simpleicons.org/railway/white"
-           alt="Railway"
-           width="48"
-           height="48"/>
+      <a href="https://railway.com">
+        <img src="https://cdn.simpleicons.org/railway/white" alt="Railway" width="48" height="48"/>
+      </a>
+
     </td>
   </tr>
 
@@ -110,23 +110,23 @@
       AI / Development Tools:
     </td>
     <td>
-      <img src="https://cdn.simpleicons.org/cursor/white"
-           alt="Cursor"
-           width="48"
-           height="48"/>
 
-      <img src="https://cdn.simpleicons.org/windsurf/white"
-           alt="Windsurf"
-           width="48"
-           height="48"/>
+      <a href="https://www.cursor.com">
+        <img src="https://cdn.simpleicons.org/cursor/white" alt="Cursor" width="48" height="48"/>
+      </a>
 
-      <img src="https://cdn.simpleicons.org/google/white"
-           alt="Antigravity"
-           width="48"
-           height="48"/>
+      <a href="https://windsurf.com">
+        <img src="https://cdn.simpleicons.org/windsurf/white" alt="Windsurf" width="48" height="48"/>
+      </a>
+
+      <a href="https://antigravity.google">
+        <img src="https://cdn.simpleicons.org/google/white" alt="Antigravity" width="48" height="48"/>
+      </a>
+
     </td>
   </tr>
 </table>
+
 
 ---
 
