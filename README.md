@@ -28,7 +28,9 @@
       Backend:
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=python,flask"/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,flask"/>
+      </a>
     </td>
   </tr>
 
@@ -37,7 +39,9 @@
       Frontend:
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,javascript,react"/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,javascript,react"/>
+      </a>
     </td>
   </tr>
 
@@ -46,7 +50,9 @@
       Database:
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase"/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase"/>
+      </a>
     </td>
   </tr>
 
@@ -55,7 +61,9 @@
       Version Control:
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github"/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github"/>
+      </a>
     </td>
   </tr>
 
@@ -64,7 +72,9 @@
       IDEs:
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vscode,cursor,jupyter"/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,cursor,jupyter"/>
+      </a>
     </td>
   </tr>
 
@@ -73,8 +83,15 @@
       Deployment:
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vercel"/>
-      <img src="https://cdn.simpleicons.org/railway/white" alt="Railway" width="48" height="48"/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vercel"/>
+      </a>
+
+      <img
+        src="https://cdn.simpleicons.org/railway/white"
+        alt="Railway"
+        width="48"
+        height="48"/>
     </td>
   </tr>
 
@@ -83,7 +100,9 @@
       Other Tools or Languages:
     </td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,php"/>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,php"/>
+      </a>
     </td>
   </tr>
 
@@ -92,8 +111,15 @@
       AI / Development Tools:
     </td>
     <td>
-      <img src="https://cdn.simpleicons.org/windsurf/white" alt="Windsurf" width="48" height="48"/>
-      <img src="https://cdn.simpleicons.org/antigravity/white" alt="Antigravity" width="48" height="48"/>
+
+      <img
+        src="https://img.shields.io/badge/Windsurf-0B0F19?style=for-the-badge&logo=windsurf&logoColor=white"
+        alt="Windsurf"/>
+
+      <img
+        src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"
+        alt="Antigravity"/>
+
     </td>
   </tr>
 </table>
@@ -125,10 +151,16 @@
 <div align="center">
 
   <a href="https://github.com/Sergio-Bustos">
-    
-    <img height="180em" src="https://github-readme-stats-sable-eight-57.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/>
 
-    <img height="180em" src="https://github-readme-stats-sable-eight-57.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/>
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+      alt="Sergio-Bustos GitHub Stats"/>
+
+    <img
+      height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+      alt="Sergio-Bustos Top Languages"/>
 
   </a>
 
@@ -140,7 +172,9 @@
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Sergio-Bustos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Sergio-Bustos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"
+    alt="Sergio-Bustos GitHub Trophies"/>
 
 </div>
 
