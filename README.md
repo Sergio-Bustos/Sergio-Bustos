@@ -40,7 +40,7 @@
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgresql"/>
+      <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,supabase"/>
     </td>
   </tr>
 
@@ -61,7 +61,14 @@
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools or Languages:</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=vercel,docker,php"/>
+      <img src="https://skillicons.dev/icons?i=vercel,docker,railway,php"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">AI / Development Tools:</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=antigravity,windsurf"/>
     </td>
   </tr>
 </table>
@@ -72,7 +79,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,figma,postgresql,git,github,javascript,react,php"/>
+    <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,figma,postgresql,mysql,mongodb,supabase,git,github,javascript,react,php"/>
   </a>
 </p>
 
@@ -80,7 +87,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=tailwindcss,postman"/>
+    <img src="https://skillicons.dev/icons?i=tailwindcss,postman,railway,docker"/>
   </a>
 </p>
 
