@@ -71,10 +71,6 @@
 
 <div align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=Sergio-Bustos&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Sergio Bustos GitHub Stats"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sergio-Bustos&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Sergio Bustos Top Languages"></div>---
 
-🏆 GitHub Trophies
-
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Sergio-Bustos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"></div>---
-
 📫 Contact me
 
 <div align="center"><a href="https://www.linkedin.com/in/sergioabustosm">
