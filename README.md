@@ -25,49 +25,62 @@
 <table>
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Backend:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,flask"/>
+    </td>
   </tr>
+
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,figma,javascript,react"/></td>
-    
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,javascript,react"/>
+    </td>
   </tr>
+
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Database:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgresql"/>
+    </td>
   </tr>
+
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Version Control:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github"/></td>
-    
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github"/>
+    </td>
   </tr>
+
   <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">IDEs:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,cursor,jupyter"/></td>
-    
+    <td>
+      <img src="https://skillicons.dev/icons?i=vscode,cursor,jupyter"/>
+    </td>
   </tr>
-    <tr>
+
+  <tr>
     <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Other Tools or Languages:</td>
-    <td><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel,docker,php"/></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vercel,docker,php"/>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 👩🏻‍💻 I am currently reinforcing my knowledge or learning in:
+## 👨🏻‍💻 I am currently reinforcing my knowledge or learning in:
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,flask,html,css,bootstrap,figma,postgresql,git,github,javascript,react,php"/>
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,figma,postgresql,git,github,javascript,react,php"/>
   </a>
 </p>
 
-
-## 👩🏻‍💻 And then I will learn:
+## 👨🏻‍💻 And then I will learn:
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss,postman"/>
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=tailwindcss,postman"/>
   </a>
 </p>
 
