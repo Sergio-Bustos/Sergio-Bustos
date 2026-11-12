@@ -19,6 +19,7 @@
 🎨 **Interests:** Backend, Frontend, Databases, Scrum
 
 ---
+
 ## 🛠️ Languages and Tools
 
 <table>
@@ -27,9 +28,7 @@
       Backend:
     </td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,flask"/>
-      </a>
+      <img src="https://skillicons.dev/icons?i=python,flask"/>
     </td>
   </tr>
 
@@ -38,9 +37,7 @@
       Frontend:
     </td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,javascript,react"/>
-      </a>
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma,javascript,react"/>
     </td>
   </tr>
 
@@ -49,9 +46,7 @@
       Database:
     </td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase"/>
-      </a>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase"/>
     </td>
   </tr>
 
@@ -60,9 +55,7 @@
       Version Control:
     </td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github"/>
-      </a>
+      <img src="https://skillicons.dev/icons?i=git,github"/>
     </td>
   </tr>
 
@@ -71,9 +64,7 @@
       IDEs:
     </td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,cursor,jupyter"/>
-      </a>
+      <img src="https://skillicons.dev/icons?i=vscode,cursor,jupyter"/>
     </td>
   </tr>
 
@@ -82,15 +73,8 @@
       Deployment:
     </td>
     <td>
-
-      <a href="https://vercel.com">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
-      </a>
-
-      <a href="https://railway.com">
-        <img src="https://cdn.simpleicons.org/railway/white" alt="Railway" width="48" height="48"/>
-      </a>
-
+      <img src="https://skillicons.dev/icons?i=vercel"/>
+      <img src="https://cdn.simpleicons.org/railway/white" alt="Railway" width="48" height="48"/>
     </td>
   </tr>
 
@@ -99,9 +83,7 @@
       Other Tools or Languages:
     </td>
     <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,php"/>
-      </a>
+      <img src="https://skillicons.dev/icons?i=docker,php"/>
     </td>
   </tr>
 
@@ -110,44 +92,30 @@
       AI / Development Tools:
     </td>
     <td>
-
-      <a href="https://www.cursor.com">
-        <img src="https://cdn.simpleicons.org/cursor/white" alt="Cursor" width="48" height="48"/>
-      </a>
-
-      <a href="https://windsurf.com">
-        <img src="https://cdn.simpleicons.org/windsurf/white" alt="Windsurf" width="48" height="48"/>
-      </a>
-
-      <a href="https://antigravity.google">
-        <img src="https://cdn.simpleicons.org/google/white" alt="Antigravity" width="48" height="48"/>
-      </a>
-
+      <img src="https://cdn.simpleicons.org/windsurf/white" alt="Windsurf" width="48" height="48"/>
+      <img src="https://cdn.simpleicons.org/antigravity/white" alt="Antigravity" width="48" height="48"/>
     </td>
   </tr>
 </table>
-
 
 ---
 
 ## 👨🏻‍💻 I am currently reinforcing my knowledge or learning in:
 
 <p align="center">
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,figma,postgres,mysql,mongodb,supabase,git,github,javascript,react,php"/>
   </a>
-
 </p>
+
+---
 
 ## 👨🏻‍💻 And then I will learn:
 
 <p align="center">
-
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwindcss,postman"/>
   </a>
-
 </p>
 
 ---
@@ -157,14 +125,10 @@
 <div align="center">
 
   <a href="https://github.com/Sergio-Bustos">
+    
+    <img height="180em" src="https://github-readme-stats-sable-eight-57.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/>
 
-    <img height="180em"
-    src="https://github-readme-stats-sable-eight-57.vercel.app/api/top-langs?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-    alt="Sergio-Bustos"/>
-
-    <img height="180em"
-    src="https://github-readme-stats-sable-eight-57.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-    alt="Sergio-Bustos"/>
+    <img height="180em" src="https://github-readme-stats-sable-eight-57.vercel.app/api?username=Sergio-Bustos&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sergio-Bustos"/>
 
   </a>
 
@@ -176,7 +140,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sergio-Bustos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sergio-Bustos&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
