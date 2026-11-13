@@ -67,9 +67,7 @@
 
 <div align="center"><img src="https://skillicons.dev/icons?i=tailwindcss,postman" alt="Future Skills"></div>---
 
-📊 GitHub Stats
-
-<div align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=Sergio-Bustos&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Sergio Bustos GitHub Stats"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sergio-Bustos&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Sergio Bustos Top Languages"></div>---
+📊 <div><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sergio-Bustos&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Sergio Bustos Top Languages"></div>---
 
 📫 Contact me
 
